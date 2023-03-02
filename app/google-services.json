@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450199918387",
+    "project_id": "dailychatapp-74899",
+    "storage_bucket": "dailychatapp-74899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450199918387:android:6470736ea7f4e0c1c49046",
+        "android_client_info": {
+          "package_name": "com.example.dailychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450199918387-3i9os1gq1s44ec96dgpfhdb0bi602agm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtk1ge7iR92cMIH7uk7r33DFWZmdwFIHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450199918387-3i9os1gq1s44ec96dgpfhdb0bi602agm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
